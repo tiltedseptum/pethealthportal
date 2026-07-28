@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+playwright
+llama-cloud>=2.8
+langchain-text-splitters
+tiktoken
+pymongo
+openai
+pydantic
